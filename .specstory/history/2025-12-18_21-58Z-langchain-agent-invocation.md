@@ -334,8 +334,8 @@ Additional data:
 {
   "status": "skipped",
   "reviewData": {
-    "status": "Done",
-    "selectedOption": "skip",
+    "status": "None",
+    "selectedOption": "rejectAndTellWhatToDoDifferently",
     "isShowingInput": false,
     "candidatesForAllowlist": [],
     "toolName": "SearchDocsByLangChain",
